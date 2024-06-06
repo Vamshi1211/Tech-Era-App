@@ -1,0 +1,29 @@
+.details-container {
+  width: 90%;
+  max-width: 1100px;
+  margin: auto;
+  margin-top: 40px;
+  box-shadow: 0px 8px 40px rgba(7, 7, 7, 0.08);
+  display: flex;
+  margin-bottom: 40px;
+}
+.text-container {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.course-name {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.course-des {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 26px;
+  font-weight: 500;
+  line-height: 1.5;
+}

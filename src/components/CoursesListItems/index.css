@@ -1,0 +1,29 @@
+.course-list-item--container {
+  list-style-type: none;
+  width: 20%;
+  margin-bottom: 40px;
+  margin-right: 15px;
+}
+
+.list-button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.image {
+  width: 30%;
+  margin-right: 15px;
+}
+
+.course-name-heading {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+}
